@@ -4,6 +4,7 @@
 * Reading an image
 * Displaying an image
 * Writing an image
+* Cropping an image
 * Text Generation
 * Conversion of Color Spaces
 * Channels

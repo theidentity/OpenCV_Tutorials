@@ -19,13 +19,14 @@
 ===
 
 ## Module 2 : Image Manipulation
-* Brightness and Contrast
+* Thresholding
 * Erosion
 * Dilation
 * Opening
 * Closing
 * Sobel
 * Laplace
+* Brightness and Contrast
 * Filter2D and Convolution
 * Smoothing
 
@@ -33,7 +34,8 @@
 * Read an image
 * Visualize each manipulation
 * Show the image side by side
-
+* Read an image of a rectangle
+* Threshold and 
 ===
 
 ## Module 3 : Feature Detection

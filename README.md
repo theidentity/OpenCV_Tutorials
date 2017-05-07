@@ -11,7 +11,6 @@
 
 #### Task
 * Read an image
-* Convert it into HSV
 * Split the channels 
 * Display them side by side with labels
 * Write it as output
